@@ -44,4 +44,5 @@ git clone https://github.com/yourusername/BuyerForeSight-Frontend.git
 ![Dashboard](https://github.com/user-attachments/assets/d0503d82-2474-48f0-b939-23ccc2e00372)
 
 ### User Detail View
-![User Detail](https://github.com/user-attachments/assets/54e92056-d4ce-4e3b-8870-9f76404be418)
+![User Detail](<img width="1911" height="970" alt="image" src="https://github.com/user-attachments/assets/669a6fbd-ff21-42fc-bdb3-0537220d1aef" />
+)
