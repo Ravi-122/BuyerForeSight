@@ -1,4 +1,6 @@
 # BuyerForeSight Frontend Assignment
+<img width="1911" height="970" alt="image" src="https://github.com/user-attachments/assets/329e26c1-d8d8-4faa-bded-d3f19fb31367" />
+
 ## Frontend Engineer Assessment
 This is a frontend engineer assessment project. You can use **React** to implement the assignment.
 ## Core Task
