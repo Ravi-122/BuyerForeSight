@@ -1,5 +1,4 @@
 # BuyerForeSight Frontend Assignment
-<img width="1911" height="970" alt="image" src="https://github.com/user-attachments/assets/329e26c1-d8d8-4faa-bded-d3f19fb31367" />
 
 ## Frontend Engineer Assessment
 This is a frontend engineer assessment project. You can use **React** to implement the assignment.
@@ -34,13 +33,10 @@ Build a **User Directory Dashboard** using the API:
 ### Prerequisites
 - Node.js >= 14.x
 - npm >= 6.x
-
 ### Steps
 1. Clone the repository:
-```bash
 git clone https://github.com/yourusername/BuyerForeSight-Frontend.git
-
-## Screenshots
+### Sreenshorts
 
 ### Dashboard View
 ![Dashboard](https://github.com/user-attachments/assets/d0503d82-2474-48f0-b939-23ccc2e00372)
